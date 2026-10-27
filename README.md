@@ -1,6 +1,6 @@
 # Kenya NG-CDF Disbursements Analysis
 
-Analysis of National Government Constituencies Development Fund (NG-CDF) disbursements to all 290 Kenyan constituencies, from 2014 to 2026.
+Analysis of National Government Constituencies Development Fund (NG-CDF) disbursements to all 290 Kenyan constituencies, from 2009 to 2026.
 
 ## Table of Contents
 
